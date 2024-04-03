@@ -1,1 +1,7 @@
-llll
+git init
+git status
+git log
+git clone
+git add
+git commit -m "message"
+git push -u origin main
